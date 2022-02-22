@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1625162318 source:c:\users\benedikt.walter\desktop\fsst\code\1_uebung\pointer_erstellung_walter\console.c
+	"console.h"
+	<stdarg.h>
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+
+1625162318 c:\users\benedikt.walter\desktop\fsst\code\1_uebung\pointer_erstellung_walter\console.h
+	<windows.h>
+	<conio.h>
+
+1625158718 source:c:\users\benni\onedrive\dokumente\htl\2_klasse\fsst\code\1_uebung\pointer_erstellung_walter\console.c
+	"console.h"
+	<stdarg.h>
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+
+1625158718 c:\users\benni\onedrive\dokumente\htl\2_klasse\fsst\code\1_uebung\pointer_erstellung_walter\console.h
+	<windows.h>
+	<conio.h>
+

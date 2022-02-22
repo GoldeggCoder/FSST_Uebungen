@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1632156896 source:c:\users\benni\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arrayshuffle_walter\console.c
+	"console.h"
+	<stdarg.h>
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+
+1634547482 c:\users\benni\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arrayshuffle_walter\console.h
+	<windows.h>
+	<conio.h>
+
+1634561962 source:c:\users\benni\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arrayshuffle_walter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"console.h"
+

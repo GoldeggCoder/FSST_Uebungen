@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1632160496 source:c:\users\marty\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arraysortieren_walter\console.c
+	"console.h"
+	<stdarg.h>
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+
+1634551082 c:\users\marty\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arraysortieren_walter\console.h
+	<windows.h>
+	<conio.h>
+
+1632160496 c:\users\marty\onedrive\dokumente\htl\2_klasse\fsst\code\3_uebung\arraysortieren_walter\console.c
+	"console.h"
+	<stdarg.h>
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+
